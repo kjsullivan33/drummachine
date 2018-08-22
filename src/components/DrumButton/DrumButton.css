@@ -1,0 +1,16 @@
+.drum-button{
+  color: grey;
+  width: 100px;
+  background-color: rgba(32, 71, 121, 1);
+	margin: auto;
+  border-radius: 5px;
+  text-align: center;
+  padding:40px 0px;
+  cursor: pointer;
+  font-size: 20px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .4);
+}
+
+.drum-button:hover {
+  background-color: rgba(30, 40, 100, 1);
+}

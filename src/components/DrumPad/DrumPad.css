@@ -1,0 +1,17 @@
+.audio-display {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(11, 7, 50);
+  margin: auto;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 1);
+  width: 200px;
+}
+
+.drum-pad{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 3;
+  width: 300px;
+  grid-gap: 5px;
+  margin: 50px auto;
+}
